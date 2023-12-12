@@ -1,0 +1,2 @@
+# Dedicated-Question-Answering-System-for-Pregnant-Women-and-Neonates-Using-Corona-Virus-Literature
+In this work we target developing a customized question answering framework that can assist the medical network with retrieval of answers to important logical questions like risk factors, effective modes of communication, various treatment options for target high-risk populaces like pregnant women and neonates.
